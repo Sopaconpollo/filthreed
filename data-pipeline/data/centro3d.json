@@ -1,0 +1,474 @@
+{
+  "fuente": "Centro3D",
+  "url": "https://centroimpresion3d.com/tienda?cat=filamentos#catalogo",
+  "categoria": "filamentos",
+  "fecha_extraccion": "2026-10-01T04:44:16.641Z",
+  "total_api": 16,
+  "total_extraidos": 16,
+  "productos": [
+    {
+      "id": "C3D-F-320",
+      "sku": "C3D-F-320-1",
+      "nombre": "Filamento ABS",
+      "slug": "filamento-abs",
+      "descripcion": "",
+      "precio": 84000,
+      "moneda": "COP",
+      "stock": 18,
+      "disponible": true,
+      "marca": null,
+      "variantes": 6,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-320-1/1782962866053-0.webp",
+          "alt": "Filamento ABS"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-320-1/0-7be6bd1b420b.webp",
+          "alt": "Filamento ABS Centro3D Negro 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-320-1/1-a54a4dbb0e3d.webp",
+          "alt": "Filamento ABS Centro3D Negro.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-abs"
+    },
+    {
+      "id": "C3D-F-328-1",
+      "sku": "C3D-F-328-1",
+      "nombre": "Filamento HYPER PETG",
+      "slug": "filamento-hyper-petg",
+      "descripcion": "Filamento de alta velocidad marca Creality",
+      "precio": 100000,
+      "moneda": "COP",
+      "stock": 26,
+      "disponible": true,
+      "marca": "HYPER",
+      "variantes": 2,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-328-1/0-53a85215db5d.png",
+          "alt": "Filamento HYPER PETG de alta velocidad marca Creality Negro 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-328-1/1-be399adc1950.png",
+          "alt": "Filamento HYPER PETG de alta velocidad marca Creality Negro.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-hyper-petg"
+    },
+    {
+      "id": "C3D-F-327",
+      "sku": "C3D-F-327-1",
+      "nombre": "Filamento HYPER PLA",
+      "slug": "filamento-hyper-pla",
+      "descripcion": "Filamento Premium de alta velocidad marca Creality",
+      "precio": 100000,
+      "moneda": "COP",
+      "stock": 69,
+      "disponible": true,
+      "marca": "HYPER",
+      "variantes": 5,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-327-3/1779562668242-0.png",
+          "alt": "Filamento HYPER PLA"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-327-1/0-f247c6318deb.png",
+          "alt": "Filamento PLA de alta velocidad marca Creality Blanco 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-327-1/1-177c4404848c.png",
+          "alt": "Filamento PLA de alta velocidad marca Creality Blanco.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-hyper-pla"
+    },
+    {
+      "id": "C3D-F-327-2",
+      "sku": "C3D-F-327-2",
+      "nombre": "Filamento HYPER PLA",
+      "slug": "filamento-hyper-pla",
+      "descripcion": "Filamento Premium de alta velocidad marca Creality",
+      "precio": 100000,
+      "moneda": "COP",
+      "stock": 59,
+      "disponible": true,
+      "marca": "HYPER",
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-327-2/0-56b197a0fb92.png",
+          "alt": "Filamento PLA de alta velocidad marca Creality Negro 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-327-2/1-2a75c0c74ba8.png",
+          "alt": "Filamento PLA de alta velocidad marca Creality Negro.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-hyper-pla"
+    },
+    {
+      "id": "C3D-F-303",
+      "sku": "C3D-F-303-1",
+      "nombre": "Filamento PETG",
+      "slug": "filamento-petg",
+      "descripcion": "",
+      "precio": 84000,
+      "moneda": "COP",
+      "stock": 18,
+      "disponible": true,
+      "marca": null,
+      "variantes": 9,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-303-3/1785362058486-0.webp",
+          "alt": "Filamento PETG"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-303-1/0-a785f0703896.webp",
+          "alt": "Filamento PLA Centro3D Blanco 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-303-1/1-7f87aea2fd51.webp",
+          "alt": "Filamento PLA Centro3D Blanco.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-petg"
+    },
+    {
+      "id": "C3D-F-303-11",
+      "sku": "C3D-F-303-11",
+      "nombre": "Filamento PETG",
+      "slug": "filamento-petg",
+      "descripcion": "",
+      "precio": 84000,
+      "moneda": "COP",
+      "stock": 0,
+      "disponible": true,
+      "marca": null,
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-303-11/0-0317f3f04133.webp",
+          "alt": "Filamento PLA Centro3D Amarillo 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-303-11/1-33ddfae0f30e.webp",
+          "alt": "Filamento PLA Centro3D Amarillo.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-petg"
+    },
+    {
+      "id": "C3D-F-300",
+      "sku": "C3D-F-300-1",
+      "nombre": "Filamento PLA",
+      "slug": "filamento-pla",
+      "descripcion": "Materia prima de excelente calidad",
+      "precio": 84000,
+      "moneda": "COP",
+      "stock": 124,
+      "disponible": true,
+      "marca": null,
+      "variantes": 32,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-300-19/1779852117611-0.png",
+          "alt": "Filamento PLA"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-300-1/0-5a8ef2dd85b4.png",
+          "alt": "Filamento PLA Centro3D Blanco 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-300-1/1-337a167514a6.png",
+          "alt": "Filamento PLA Centro3D Blanco.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla"
+    },
+    {
+      "id": "C3D-F-300-20",
+      "sku": "C3D-F-300-20",
+      "nombre": "Filamento PLA",
+      "slug": "filamento-pla",
+      "descripcion": "Materia prima de excelente calidad",
+      "precio": 84000,
+      "moneda": "COP",
+      "stock": 7,
+      "disponible": true,
+      "marca": null,
+      "variantes": 2,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-300-20/0-b80a9fb404f9.png",
+          "alt": "Filamento PLA Centro3D Verde pastel 2.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-300-20/1-c389cfb02432.png",
+          "alt": "Filamento PLA Centro3D Verde pastel.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla"
+    },
+    {
+      "id": "C3D-F-314-1",
+      "sku": "C3D-F-314-1",
+      "nombre": "Filamento PLA 1.75 mm arcoiris que brilla en la oscuridad blanco marca Centro3D",
+      "slug": "filamento-pla-1-75-mm-arcoiris-que-brilla-en-la-oscuridad-blanco-marca-centro3d",
+      "descripcion": "Brilla en la oscuridad",
+      "precio": 130000,
+      "moneda": "COP",
+      "stock": 0,
+      "disponible": true,
+      "marca": "Centro3D",
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-314-1/0-b11ad22b407c.webp",
+          "alt": "Filamento PLA 1.75 mm arcoiris que brilla en la oscuridad blanco.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla-1-75-mm-arcoiris-que-brilla-en-la-oscuridad-blanco-marca-centro3d"
+    },
+    {
+      "id": "C3D-F-312-1",
+      "sku": "C3D-F-312-1",
+      "nombre": "Filamento PLA arcoiris",
+      "slug": "filamento-pla-arcoiris",
+      "descripcion": "",
+      "precio": 130000,
+      "moneda": "COP",
+      "stock": 1,
+      "disponible": true,
+      "marca": null,
+      "variantes": 2,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-312-1/0-0017dfe6f434.webp",
+          "alt": "Filamento PLA Arcoiris seda serie azul (3).png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-312-1/1-1825538dff49.webp",
+          "alt": "Filamento PLA Arcoiris seda serie azul.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla-arcoiris"
+    },
+    {
+      "id": "C3D-F-313",
+      "sku": "C3D-F-313",
+      "nombre": "Filamento PLA arcoiris",
+      "slug": "filamento-pla-arcoiris",
+      "descripcion": "",
+      "precio": 130000,
+      "moneda": "COP",
+      "stock": 1,
+      "disponible": true,
+      "marca": null,
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-313/0-8bac43e8b9c4.webp",
+          "alt": "Filamento PLA 1.75 mm arcoiris escarchado (1).png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-313/1-df0c293ae358.webp",
+          "alt": "Filamento PLA 1.75 mm arcoiris escarchado (2).png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla-arcoiris"
+    },
+    {
+      "id": "C3D-F-316",
+      "sku": "C3D-F-316-14",
+      "nombre": "Filamento PLA bicolor seda",
+      "slug": "filamento-pla-bicolor-seda",
+      "descripcion": "",
+      "precio": 110000,
+      "moneda": "COP",
+      "stock": 10,
+      "disponible": true,
+      "marca": null,
+      "variantes": 3,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-316-14/1783036435052-0.webp",
+          "alt": "Filamento PLA bicolor seda"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-316-14/0-cbf2fbfb4aa7.webp",
+          "alt": "Filamento PLA bicolor seda plateado-negro (1).png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-316-14/1-2b459be8fb54.webp",
+          "alt": "Filamento PLA bicolor seda plateado-negro (2).png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla-bicolor-seda"
+    },
+    {
+      "id": "C3D-F-316-8",
+      "sku": "C3D-F-316-8",
+      "nombre": "Filamento PLA bicolor seda",
+      "slug": "filamento-pla-bicolor-seda",
+      "descripcion": "",
+      "precio": 110000,
+      "moneda": "COP",
+      "stock": 5,
+      "disponible": true,
+      "marca": null,
+      "variantes": 3,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-316-8/0-e0e61eb78bd2.webp",
+          "alt": "Filamento PLA bicolor seda dorado-cobre (1).png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-316-8/1-896f3028b542.webp",
+          "alt": "Filamento PLA bicolor seda dorado-cobre (2).png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-pla-bicolor-seda"
+    },
+    {
+      "id": "C3D-F-304",
+      "sku": "C3D-F-304-1",
+      "nombre": "Filamento TPU",
+      "slug": "filamento-tpu",
+      "descripcion": "Presentación 800 gramos\\nDiámetro 1.75 mm",
+      "precio": 120000,
+      "moneda": "COP",
+      "stock": 27,
+      "disponible": true,
+      "marca": null,
+      "variantes": 13,
+      "tipo": "family",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://fwhjnbzdghiedbiavbrt.supabase.co/storage/v1/object/public/product-images/C3D-F-304-19/1782956103886-0.webp",
+          "alt": "Filamento TPU"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-304-1/0-e83c2170a64d.webp",
+          "alt": "Filamento TPU flexible marca Centro3D Azul.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/filamento-tpu"
+    },
+    {
+      "id": "C3D-F-200",
+      "sku": "C3D-F-200",
+      "nombre": "Kit Filamento Pla Lápiz 3d, 20 Colores, 200 Gramos / 65 Mts",
+      "slug": "kit-filamento-pla-lapiz-3d-20-colores-200-gramos-65-mts",
+      "descripcion": "20 colores diferentes 200 gramos equivalen a 65 metros de longitud",
+      "precio": 39000,
+      "moneda": "COP",
+      "stock": 29,
+      "disponible": true,
+      "marca": null,
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-200/0-19dcf568372d.png",
+          "alt": "A5C97421-C1DF-4903-A20A-A37D990550E3.png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-200/1-42d7b1a1bfbb.webp",
+          "alt": "Kit filamentos PLA (2).png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/kit-filamento-pla-lapiz-3d-20-colores-200-gramos-65-mts"
+    },
+    {
+      "id": "C3D-F-201",
+      "sku": "C3D-F-201",
+      "nombre": "Kit Filamento Pla Lápiz 3d, 20 Colores, 400 Gramos / 130 Mts",
+      "slug": "kit-filamento-pla-lapiz-3d-20-colores-400-gramos-130-mts",
+      "descripcion": "20 colores diferentes\\n400 gramos equivalen a 130 metros de longitud",
+      "precio": 67000,
+      "moneda": "COP",
+      "stock": 64,
+      "disponible": true,
+      "marca": null,
+      "variantes": 1,
+      "tipo": "product",
+      "categorias": [
+        "1954eb7d-2a8b-4cc6-b161-08f9f844d69f"
+      ],
+      "imagenes": [
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-201/0-255d1dfa1398.png",
+          "alt": "Kit filamentos PLA (3).png"
+        },
+        {
+          "url": "https://centroimpresion3d.com/api/public/product-image/products/C3D-F-201/1-38482656d86f.png",
+          "alt": "IMG_7076.png"
+        }
+      ],
+      "url": "https://centroimpresion3d.com/producto/kit-filamento-pla-lapiz-3d-20-colores-400-gramos-130-mts"
+    }
+  ]
+}

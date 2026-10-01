@@ -1,0 +1,17 @@
+{
+  "name": "filthreed-data-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pipeline de extracción y normalización de datos para FilThreed",
+  "scripts": {
+    "scrape:centro3d": "tsx src/scrapers/centro3d.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
