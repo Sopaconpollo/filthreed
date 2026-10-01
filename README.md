@@ -15,6 +15,6 @@ FilThreed busca centralizar información pública de diferentes proveedores de f
 
 ## Proveedores iniciales
 
-- ArrowTi3D
+- Centro3D
 - Bambu Lab Colombia
 - Zuluprints
